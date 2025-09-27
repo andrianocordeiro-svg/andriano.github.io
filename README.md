@@ -1,6 +1,9 @@
-```json
 {
-  "nome": "Meu Projeto",
-  "versao": "1.0.0",
-  "autor": "Eu"
-}
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Introdução ao Método Científico\n",
+    "\n",
+    "Andriano Nazaré Cordeiro\n",
